@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Anomaly_Detection\Statistical_Based_Approaches\Others\3-sigma.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Anomaly_Detection\Statistical_Based_Approaches\Parametric_Methods\Gaussian_Mixture_model.py">
           <value>
             <Attribute>
