@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="D:\Anaconda3\envs\ADRSA37\Lib\site-packages\sklearn\mixture\_gaussian_mixture.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Anomaly_Detection\Density_Based_Approaches\LOF.py">
           <value>
             <Attribute>
