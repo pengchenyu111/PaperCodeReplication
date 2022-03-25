@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Anomaly_Detection\Clustering_Based_Approaches\MeanShift.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Anomaly_Detection\Density_Based_Approaches\LOF.py">
           <value>
             <Attribute>
