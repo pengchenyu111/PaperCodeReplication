@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Anomaly_Detection\Clustering_Based_Approaches\DBSCAN.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Anomaly_Detection\Clustering_Based_Approaches\K-means.py">
           <value>
             <Attribute>
