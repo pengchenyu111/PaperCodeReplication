@@ -59,6 +59,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Anomaly_Detection\Ensemble_Based_Approaches\Isolation_Forest.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Anomaly_Detection\Statistical_Based_Approaches\Non_Parametric_Methods\KDE.py">
           <value>
             <Attribute>
@@ -81,6 +88,13 @@
           </value>
         </entry>
         <entry key="\Anomaly_Detection\Statistical_Based_Approaches\Parametric_Methods\Gaussian_Mixture_model.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dataset\toy_dataset\anomaly_toy_dataset.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
