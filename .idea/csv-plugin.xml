@@ -115,6 +115,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Pytorch\2-TensorBoard\1_test_tb.pyi">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
