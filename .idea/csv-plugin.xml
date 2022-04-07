@@ -66,6 +66,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Anomaly_Detection\PaperCode\MSCRED\test.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Anomaly_Detection\PaperCode\MSCRED\utils\data\synthetic_data_with_anomaly-s-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Anomaly_Detection\Statistical_Based_Approaches\Non_Parametric_Methods\KDE.py">
           <value>
             <Attribute>
